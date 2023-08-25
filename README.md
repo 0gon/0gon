@@ -17,7 +17,7 @@
   <br/>
   <br/>
   <br/>
-  #### 📧 my email 📧
+#### T📧 my email 📧
   <br/>
   dudrhs4563@naver.com
   <br/>
