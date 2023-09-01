@@ -8,7 +8,7 @@
   <br/>
   내 프로젝트 PDF 구글 드라이브 뷰어
   <br/>
-  https://drive.google.com/file/d/1_f2GNy6qkCLbHcCbUVlTezc7iHPGZSFx/view?usp=drive_link
+  https://drive.google.com/file/d/1_f2GNy6qkCLbHcCbUVlTezc7iHPGZSFx/view?usp=sharing
   <br/>
   <h4>📧 email 📧</h4>
   dudrhs4563@naver.com
