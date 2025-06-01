@@ -6,10 +6,7 @@
   <br/>
   <h4>안녕하세요, 김영곤입니다. 웹 개발자입니다. 잘부탁드립니다.</h4>
   <br/>
-  내 프로젝트 PDF 구글 드라이브 뷰어
-  <br/>
-  https://drive.google.com/file/d/1_f2GNy6qkCLbHcCbUVlTezc7iHPGZSFx/view?usp=sharing
-  <br/>
+
   <h4>📧 email 📧</h4>
   dudrhs4563@naver.com
   <br/>
